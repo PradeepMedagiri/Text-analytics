@@ -1,0 +1,2 @@
+# Text-analytics-
+Text analytics on 13 companies data sets, understanding the relationship and similarities between companies based on their patents (title and Abstract). All files are loaded into Corpus. Initiated functions to perform Pre-Processing (Normalization, Stop words, lemmatization, tokenization). • Performed Topic Modeling to obtain 5 topics: NMF, LDA, LSA. Compared all models and results obtained are way different from each other and similarity is very less
